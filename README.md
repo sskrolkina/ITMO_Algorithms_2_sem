@@ -14,10 +14,10 @@
 
 ##### [B. Город мостов](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_9/B.cpp)
 
-##### [C. Квартира Ивана)](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_9/C.cpp)
+##### [C. Квартира Ивана](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_9/C.cpp)
 
-##### [D. Гостиница)](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_9/D.cpp)
+##### [D. Гостиница](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_9/D.cpp)
 
-##### [E. На планете "Андора")](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_9/E.cpp)
+##### [E. На планете "Андора"](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_9/E.cpp)
 
-##### [F. NP-полная задача)](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_9/F.cpp)
+##### [F. NP-полная задача](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_9/F.cpp)
