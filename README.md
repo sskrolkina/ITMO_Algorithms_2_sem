@@ -21,3 +21,13 @@
 ##### [E. На планете "Андора"](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_9/E.cpp)
 
 ##### [F. NP-полная задача](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_9/F.cpp)
+
+## *Лабораторная работа 3*
+
+##### [A. Хогвартс](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_10/A.cpp)
+
+##### [B.Тиндер](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_10/B.cpp)
+
+##### [C. Самокаты](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_10/C.cpp)
+
+##### [D. Потерянное условие](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_10/D.cpp)
