@@ -45,3 +45,15 @@
 ##### [E. Спасение Подземного Царства](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_11/E.cpp)
 
 ##### [F. Тиндер 2](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_11/F.cpp)
+
+## *Лабораторная работа 5*
+
+##### [A. Весеннее наводнение](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_12/A.cpp)
+
+##### [B. Весеннее наводнение 2](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_12/B.cpp)
+
+##### [D. Петушки - Москва](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_12/D.cpp)
+
+##### [E. Гений оптимизации](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_12/E.cpp)
+
+##### [F. Конгресс Молодых Ученых](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_12/F.cpp)
