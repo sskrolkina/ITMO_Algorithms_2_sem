@@ -26,8 +26,22 @@
 
 ##### [A. Хогвартс](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_10/A.cpp)
 
-##### [B.Тиндер](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_10/B.cpp)
+##### [B. Тиндер](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_10/B.cpp)
 
 ##### [C. Самокаты](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_10/C.cpp)
 
 ##### [D. Потерянное условие](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_10/D.cpp)
+
+## *Лабораторная работа 4*
+
+##### [A. Тайны временных порталов](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_11/A.cpp)
+
+##### [B. MIT(O)-Хайп-Парк](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_11/B.cpp)
+
+##### [C. Фейсконтроль](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_11/C.cpp)
+
+##### [D. В поисках Вязьмы](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_11/D.cpp)
+
+##### [E. Спасение Подземного Царства](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_11/E.cpp)
+
+##### [F. Тиндер 2](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_11/F.cpp)
