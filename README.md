@@ -67,3 +67,9 @@
 ##### [E. Биба и боба](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_13/E.cpp)
 
 ##### [F. Три друга 3: Кукушка](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_13/F.cpp)
+
+## *Лабораторная работа 7*
+
+##### [A. 1984](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_14/A.cpp)
+
+##### [B. Хогвартс](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_14/B.cpp)
