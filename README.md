@@ -57,3 +57,13 @@
 ##### [E. Гений оптимизации](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_12/E.cpp)
 
 ##### [F. Конгресс Молодых Ученых](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_12/F.cpp)
+
+## *Лабораторная работа 6*
+
+##### [C. Что же такое множество?](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_13/C.cpp)
+
+##### [D. Тест](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_13/D.cpp)
+
+##### [E. Биба и боба](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_13/E.cpp)
+
+##### [F. Три друга 3: Кукушка](https://github.com/sskrolkina/ITMO_Algorithms_2_sem/blob/main/LAB_13/F.cpp)
